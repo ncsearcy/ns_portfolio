@@ -1,0 +1,11 @@
+.app__works {
+  flex: 1;
+  width: 100%;
+  flex-direction: column;
+}
+
+.app_works-filter {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}/*# sourceMappingURL=Work.css.map */
